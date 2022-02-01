@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @enrixHere
+- 👀 I’m interested in bread
+- 🌱 I’m currently learning Go, Web development, Desktop app development, community of programmers and many, many more
+- 💞️ I’m looking to collaborate on an idea of teaching me something
+- 📫 How to reach me enrix#5992
